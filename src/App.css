@@ -1,0 +1,11 @@
+
+body {
+   font-family: 'Roboto', sans-serif;
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   color: #fff;
+   background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(236, 111, 102), rgb(243, 161, 131)) repeat scroll 0% 0%;
+}
